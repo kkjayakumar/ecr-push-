@@ -1,4 +1,3 @@
-# ecr-push-
 
 pipeline {
     agent any
